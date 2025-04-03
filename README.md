@@ -1,4 +1,4 @@
-# Cosmic(tm) Kitty
+# Cosmic Kitty
 
 This program converts an exported `.ron` cosmic(tm) terminal theme into one that is useable in Kitty.
 
