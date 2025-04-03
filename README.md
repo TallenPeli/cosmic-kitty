@@ -1,6 +1,6 @@
 # Cosmic Kitty
 
-This program converts an exported `.ron` cosmic(tm) terminal theme into one that is useable in Kitty.
+This program converts an exported `.ron` cosmic(tm) terminal theme into one that is usable in the best terminal emulator: _Kitty_.
 
 ## Dependencies
 
