@@ -1,6 +1,6 @@
 # Cosmic Kitty
 
-This program converts an exported `.ron` cosmic(tm) terminal theme into one that is usable in the best terminal emulator: _Kitty_.
+This program converts an exported `.ron` cosmic™ terminal theme into one that is usable in the best terminal emulator: _Kitty_.
 
 ## Dependencies
 
@@ -17,7 +17,7 @@ This will place the binary in `/target/release/`.
 
 ## Usage
 
-1. Get a cosmic(tm) terminal theme by going to:
+1. Get a cosmic™ terminal theme by going to:
 
 `View->Color Schemes...->{three dots next to theme you want to export}->Export`
 
